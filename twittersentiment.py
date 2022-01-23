@@ -19,10 +19,10 @@ from nltk.stem import SnowballStemmer
 #from sklearn.feature_extraction.text import CountVectorizer
 
 # keys and tokens from the Twitter Dev Console
-consumer_key = 'ONFO8DJXIpCjs1XL4g7nzbJhV'
-consumer_secret = 'lWvsAZ5j9Bxkx5q7Oqgy3Ug3E39d08b3AfWceHGAhcRhBPilEK'
-access_token = '708385399727587328-YxLm1xDhBqlAMVvwmZLEXHhSaoKtRWW'
-access_token_secret = 'KxBNG8SxWFBl7djx1ctt2x2cH6X7olMVpfF3ymNhuFLLk'
+consumer_key = #Put your consumer key
+consumer_secret = #Put your consumer secret key
+access_token = #Put your access token
+access_token_secret = #Put your secret access token key
   
 # attempt authentication
 try:
